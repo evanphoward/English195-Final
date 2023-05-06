@@ -1,65 +1,4 @@
 Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
-#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
-"Yemen, Rep.",YEM,2020,Agricultural land (sq. km),AG.LND.AGRI.K2,234520
-"Yemen, Rep.",YEM,2019,Agricultural land (sq. km),AG.LND.AGRI.K2,234520
-"Yemen, Rep.",YEM,2018,Agricultural land (sq. km),AG.LND.AGRI.K2,234520
-"Yemen, Rep.",YEM,2017,Agricultural land (sq. km),AG.LND.AGRI.K2,234520
-"Yemen, Rep.",YEM,2016,Agricultural land (sq. km),AG.LND.AGRI.K2,233858
-"Yemen, Rep.",YEM,2015,Agricultural land (sq. km),AG.LND.AGRI.K2,234326
-"Yemen, Rep.",YEM,2014,Agricultural land (sq. km),AG.LND.AGRI.K2,234516
-"Yemen, Rep.",YEM,2013,Agricultural land (sq. km),AG.LND.AGRI.K2,234990
-"Yemen, Rep.",YEM,2012,Agricultural land (sq. km),AG.LND.AGRI.K2,235010
-"Yemen, Rep.",YEM,2011,Agricultural land (sq. km),AG.LND.AGRI.K2,234520
-"Yemen, Rep.",YEM,2010,Agricultural land (sq. km),AG.LND.AGRI.K2,235790
-"Yemen, Rep.",YEM,2009,Agricultural land (sq. km),AG.LND.AGRI.K2,234520
-"Yemen, Rep.",YEM,2008,Agricultural land (sq. km),AG.LND.AGRI.K2,235170
-"Yemen, Rep.",YEM,2007,Agricultural land (sq. km),AG.LND.AGRI.K2,236270
-"Yemen, Rep.",YEM,2006,Agricultural land (sq. km),AG.LND.AGRI.K2,236270
-"Yemen, Rep.",YEM,2005,Agricultural land (sq. km),AG.LND.AGRI.K2,235230
-"Yemen, Rep.",YEM,2004,Agricultural land (sq. km),AG.LND.AGRI.K2,235570
-"Yemen, Rep.",YEM,2003,Agricultural land (sq. km),AG.LND.AGRI.K2,234950
-"Yemen, Rep.",YEM,2002,Agricultural land (sq. km),AG.LND.AGRI.K2,236560
-"Yemen, Rep.",YEM,2001,Agricultural land (sq. km),AG.LND.AGRI.K2,235950
-"Yemen, Rep.",YEM,2000,Agricultural land (sq. km),AG.LND.AGRI.K2,236690
-"Yemen, Rep.",YEM,1999,Agricultural land (sq. km),AG.LND.AGRI.K2,236680
-"Yemen, Rep.",YEM,1998,Agricultural land (sq. km),AG.LND.AGRI.K2,236800
-"Yemen, Rep.",YEM,1997,Agricultural land (sq. km),AG.LND.AGRI.K2,237200
-"Yemen, Rep.",YEM,1996,Agricultural land (sq. km),AG.LND.AGRI.K2,237550
-"Yemen, Rep.",YEM,1995,Agricultural land (sq. km),AG.LND.AGRI.K2,237360
-"Yemen, Rep.",YEM,1994,Agricultural land (sq. km),AG.LND.AGRI.K2,237300
-"Yemen, Rep.",YEM,1993,Agricultural land (sq. km),AG.LND.AGRI.K2,237250
-"Yemen, Rep.",YEM,1992,Agricultural land (sq. km),AG.LND.AGRI.K2,234810
-"Yemen, Rep.",YEM,1991,Agricultural land (sq. km),AG.LND.AGRI.K2,236310
-"Yemen, Rep.",YEM,1990,Agricultural land (sq. km),AG.LND.AGRI.K2,236260
-"Yemen, Rep.",YEM,1989,Agricultural land (sq. km),AG.LND.AGRI.K2,234810
-"Yemen, Rep.",YEM,1988,Agricultural land (sq. km),AG.LND.AGRI.K2,234790
-"Yemen, Rep.",YEM,1987,Agricultural land (sq. km),AG.LND.AGRI.K2,234790
-"Yemen, Rep.",YEM,1986,Agricultural land (sq. km),AG.LND.AGRI.K2,234700
-"Yemen, Rep.",YEM,1985,Agricultural land (sq. km),AG.LND.AGRI.K2,234700
-"Yemen, Rep.",YEM,1984,Agricultural land (sq. km),AG.LND.AGRI.K2,234650
-"Yemen, Rep.",YEM,1983,Agricultural land (sq. km),AG.LND.AGRI.K2,234650
-"Yemen, Rep.",YEM,1982,Agricultural land (sq. km),AG.LND.AGRI.K2,234650
-"Yemen, Rep.",YEM,1981,Agricultural land (sq. km),AG.LND.AGRI.K2,234650
-"Yemen, Rep.",YEM,1980,Agricultural land (sq. km),AG.LND.AGRI.K2,234630
-"Yemen, Rep.",YEM,1979,Agricultural land (sq. km),AG.LND.AGRI.K2,234630
-"Yemen, Rep.",YEM,1978,Agricultural land (sq. km),AG.LND.AGRI.K2,234620
-"Yemen, Rep.",YEM,1977,Agricultural land (sq. km),AG.LND.AGRI.K2,234600
-"Yemen, Rep.",YEM,1976,Agricultural land (sq. km),AG.LND.AGRI.K2,234600
-"Yemen, Rep.",YEM,1975,Agricultural land (sq. km),AG.LND.AGRI.K2,234600
-"Yemen, Rep.",YEM,1974,Agricultural land (sq. km),AG.LND.AGRI.K2,234470
-"Yemen, Rep.",YEM,1973,Agricultural land (sq. km),AG.LND.AGRI.K2,234420
-"Yemen, Rep.",YEM,1972,Agricultural land (sq. km),AG.LND.AGRI.K2,234370
-"Yemen, Rep.",YEM,1971,Agricultural land (sq. km),AG.LND.AGRI.K2,234260
-"Yemen, Rep.",YEM,1970,Agricultural land (sq. km),AG.LND.AGRI.K2,234180
-"Yemen, Rep.",YEM,1969,Agricultural land (sq. km),AG.LND.AGRI.K2,234130
-"Yemen, Rep.",YEM,1968,Agricultural land (sq. km),AG.LND.AGRI.K2,234030
-"Yemen, Rep.",YEM,1967,Agricultural land (sq. km),AG.LND.AGRI.K2,233980
-"Yemen, Rep.",YEM,1966,Agricultural land (sq. km),AG.LND.AGRI.K2,233910
-"Yemen, Rep.",YEM,1965,Agricultural land (sq. km),AG.LND.AGRI.K2,233800
-"Yemen, Rep.",YEM,1964,Agricultural land (sq. km),AG.LND.AGRI.K2,233700
-"Yemen, Rep.",YEM,1963,Agricultural land (sq. km),AG.LND.AGRI.K2,233600
-"Yemen, Rep.",YEM,1962,Agricultural land (sq. km),AG.LND.AGRI.K2,233480
-"Yemen, Rep.",YEM,1961,Agricultural land (sq. km),AG.LND.AGRI.K2,233370
 "Yemen, Rep.",YEM,2020,Agricultural land (% of land area),AG.LND.AGRI.ZS,44.4191904843078
 "Yemen, Rep.",YEM,2019,Agricultural land (% of land area),AG.LND.AGRI.ZS,44.4191904843078
 "Yemen, Rep.",YEM,2018,Agricultural land (% of land area),AG.LND.AGRI.ZS,44.4191904843078
@@ -180,52 +119,37 @@ Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
 "Yemen, Rep.",YEM,1963,Arable land (% of land area),AG.LND.ARBL.ZS,2.43385040816713
 "Yemen, Rep.",YEM,1962,Arable land (% of land area),AG.LND.ARBL.ZS,2.41112184404417
 "Yemen, Rep.",YEM,1961,Arable land (% of land area),AG.LND.ARBL.ZS,2.39028732693145
-"Yemen, Rep.",YEM,2015,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,1696.4233162
-"Yemen, Rep.",YEM,2000,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,1715.29506264
-"Yemen, Rep.",YEM,1990,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,1725.94113228
-"Yemen, Rep.",YEM,2015,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.373105421935139
-"Yemen, Rep.",YEM,2000,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.377256007965248
-"Yemen, Rep.",YEM,1990,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.379597467356598
-"Yemen, Rep.",YEM,2015,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,54.2315133892
-"Yemen, Rep.",YEM,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,35.3597669501
-"Yemen, Rep.",YEM,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,24.71369730893
-"Yemen, Rep.",YEM,2015,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.011927489732093
-"Yemen, Rep.",YEM,2000,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.0077769037017137
-"Yemen, Rep.",YEM,1990,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.00543544431037146
-"Yemen, Rep.",YEM,2015,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0.385032911667232
-"Yemen, Rep.",YEM,2000,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0.385032911666962
-"Yemen, Rep.",YEM,1990,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0.38503291166697
-"Yemen, Rep.",YEM,2020,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2019,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2018,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2017,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2016,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2015,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2014,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2013,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2012,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2011,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2010,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2009,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2008,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2007,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2006,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2005,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2004,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2003,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2002,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2001,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,2000,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,1999,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,1998,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,1997,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,1996,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,1995,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,1994,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,1993,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,1992,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,1991,Forest area (sq. km),AG.LND.FRST.K2,5490
-"Yemen, Rep.",YEM,1990,Forest area (sq. km),AG.LND.FRST.K2,5490
+"Yemen, Rep.",YEM,2020,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2019,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2018,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2017,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2016,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2015,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2014,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2013,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2012,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2011,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2010,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2009,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2008,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2007,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2006,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2005,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2004,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2003,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2002,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2001,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,2000,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,1999,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,1998,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,1997,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,1996,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,1995,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,1994,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,1993,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,1992,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,1991,Forest area (sq. km),AG.LND.FRST.K2,5490.0
+"Yemen, Rep.",YEM,1990,Forest area (sq. km),AG.LND.FRST.K2,5490.0
 "Yemen, Rep.",YEM,2020,Forest area (% of land area),AG.LND.FRST.ZS,1.03983180862549
 "Yemen, Rep.",YEM,2019,Forest area (% of land area),AG.LND.FRST.ZS,1.03983180862549
 "Yemen, Rep.",YEM,2018,Forest area (% of land area),AG.LND.FRST.ZS,1.03983180862549
@@ -257,158 +181,68 @@ Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
 "Yemen, Rep.",YEM,1992,Forest area (% of land area),AG.LND.FRST.ZS,1.03983180862549
 "Yemen, Rep.",YEM,1991,Forest area (% of land area),AG.LND.FRST.ZS,1.03983180862549
 "Yemen, Rep.",YEM,1990,Forest area (% of land area),AG.LND.FRST.ZS,1.03983180862549
-"Yemen, Rep.",YEM,2019,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2018,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2017,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2016,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2015,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2014,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2013,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2012,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2011,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2010,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2009,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2008,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2007,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2006,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2005,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2004,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2003,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2002,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2001,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2000,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1999,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1998,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1997,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1996,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1995,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1994,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1993,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1992,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1991,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1990,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1989,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1988,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1987,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1986,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1985,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1984,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1983,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1982,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1981,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1980,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1979,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1978,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1977,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1976,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1975,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1974,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1973,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1972,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1971,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1970,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1969,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1968,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1967,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1966,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1965,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1964,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1963,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1962,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,1961,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167
-"Yemen, Rep.",YEM,2021,Cereal yield (kg per hectare),AG.YLD.CREL.KG,791.8
-"Yemen, Rep.",YEM,2020,Cereal yield (kg per hectare),AG.YLD.CREL.KG,861.1
-"Yemen, Rep.",YEM,2019,Cereal yield (kg per hectare),AG.YLD.CREL.KG,864.9
-"Yemen, Rep.",YEM,2018,Cereal yield (kg per hectare),AG.YLD.CREL.KG,682.8
-"Yemen, Rep.",YEM,2017,Cereal yield (kg per hectare),AG.YLD.CREL.KG,699
-"Yemen, Rep.",YEM,2016,Cereal yield (kg per hectare),AG.YLD.CREL.KG,687
-"Yemen, Rep.",YEM,2015,Cereal yield (kg per hectare),AG.YLD.CREL.KG,784.2
-"Yemen, Rep.",YEM,2014,Cereal yield (kg per hectare),AG.YLD.CREL.KG,962.7
-"Yemen, Rep.",YEM,2013,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1008.2
-"Yemen, Rep.",YEM,2012,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1064.4
-"Yemen, Rep.",YEM,2011,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1022.5
-"Yemen, Rep.",YEM,2010,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1092.4
-"Yemen, Rep.",YEM,2009,Cereal yield (kg per hectare),AG.YLD.CREL.KG,995.2
-"Yemen, Rep.",YEM,2008,Cereal yield (kg per hectare),AG.YLD.CREL.KG,939.1
-"Yemen, Rep.",YEM,2007,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1019.5
-"Yemen, Rep.",YEM,2006,Cereal yield (kg per hectare),AG.YLD.CREL.KG,930.2
-"Yemen, Rep.",YEM,2005,Cereal yield (kg per hectare),AG.YLD.CREL.KG,713.1
-"Yemen, Rep.",YEM,2004,Cereal yield (kg per hectare),AG.YLD.CREL.KG,715.2
-"Yemen, Rep.",YEM,2003,Cereal yield (kg per hectare),AG.YLD.CREL.KG,785.2
-"Yemen, Rep.",YEM,2002,Cereal yield (kg per hectare),AG.YLD.CREL.KG,943.8
-"Yemen, Rep.",YEM,2001,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1064.3
-"Yemen, Rep.",YEM,2000,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1085
-"Yemen, Rep.",YEM,1999,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1111.2
-"Yemen, Rep.",YEM,1998,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1081.5
-"Yemen, Rep.",YEM,1997,Cereal yield (kg per hectare),AG.YLD.CREL.KG,895.4
-"Yemen, Rep.",YEM,1996,Cereal yield (kg per hectare),AG.YLD.CREL.KG,937.1
-"Yemen, Rep.",YEM,1995,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1105
-"Yemen, Rep.",YEM,1994,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1091.6
-"Yemen, Rep.",YEM,1993,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1109.3
-"Yemen, Rep.",YEM,1992,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1110.3
-"Yemen, Rep.",YEM,1991,Cereal yield (kg per hectare),AG.YLD.CREL.KG,699.7
-"Yemen, Rep.",YEM,1990,Cereal yield (kg per hectare),AG.YLD.CREL.KG,907.7
-"Yemen, Rep.",YEM,1989,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1005
-"Yemen, Rep.",YEM,1988,Cereal yield (kg per hectare),AG.YLD.CREL.KG,970.5
-"Yemen, Rep.",YEM,1987,Cereal yield (kg per hectare),AG.YLD.CREL.KG,840.2
-"Yemen, Rep.",YEM,1986,Cereal yield (kg per hectare),AG.YLD.CREL.KG,804
-"Yemen, Rep.",YEM,1985,Cereal yield (kg per hectare),AG.YLD.CREL.KG,518.3
-"Yemen, Rep.",YEM,1984,Cereal yield (kg per hectare),AG.YLD.CREL.KG,533.1
-"Yemen, Rep.",YEM,1983,Cereal yield (kg per hectare),AG.YLD.CREL.KG,526.4
-"Yemen, Rep.",YEM,1982,Cereal yield (kg per hectare),AG.YLD.CREL.KG,961.4
-"Yemen, Rep.",YEM,1981,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1099
-"Yemen, Rep.",YEM,1980,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1016.5
-"Yemen, Rep.",YEM,1979,Cereal yield (kg per hectare),AG.YLD.CREL.KG,997.3
-"Yemen, Rep.",YEM,1978,Cereal yield (kg per hectare),AG.YLD.CREL.KG,956.5
-"Yemen, Rep.",YEM,1977,Cereal yield (kg per hectare),AG.YLD.CREL.KG,883.3
-"Yemen, Rep.",YEM,1976,Cereal yield (kg per hectare),AG.YLD.CREL.KG,823.2
-"Yemen, Rep.",YEM,1975,Cereal yield (kg per hectare),AG.YLD.CREL.KG,951
-"Yemen, Rep.",YEM,1974,Cereal yield (kg per hectare),AG.YLD.CREL.KG,799.8
-"Yemen, Rep.",YEM,1973,Cereal yield (kg per hectare),AG.YLD.CREL.KG,843.7
-"Yemen, Rep.",YEM,1972,Cereal yield (kg per hectare),AG.YLD.CREL.KG,787.1
-"Yemen, Rep.",YEM,1971,Cereal yield (kg per hectare),AG.YLD.CREL.KG,853.7
-"Yemen, Rep.",YEM,1970,Cereal yield (kg per hectare),AG.YLD.CREL.KG,780.8
-"Yemen, Rep.",YEM,1969,Cereal yield (kg per hectare),AG.YLD.CREL.KG,810.2
-"Yemen, Rep.",YEM,1968,Cereal yield (kg per hectare),AG.YLD.CREL.KG,793.6
-"Yemen, Rep.",YEM,1967,Cereal yield (kg per hectare),AG.YLD.CREL.KG,794.2
-"Yemen, Rep.",YEM,1966,Cereal yield (kg per hectare),AG.YLD.CREL.KG,777
-"Yemen, Rep.",YEM,1965,Cereal yield (kg per hectare),AG.YLD.CREL.KG,773.6
-"Yemen, Rep.",YEM,1964,Cereal yield (kg per hectare),AG.YLD.CREL.KG,776.1
-"Yemen, Rep.",YEM,1963,Cereal yield (kg per hectare),AG.YLD.CREL.KG,771.8
-"Yemen, Rep.",YEM,1962,Cereal yield (kg per hectare),AG.YLD.CREL.KG,780.7
-"Yemen, Rep.",YEM,1961,Cereal yield (kg per hectare),AG.YLD.CREL.KG,782.5
-"Yemen, Rep.",YEM,2018,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-1.30563838914082
-"Yemen, Rep.",YEM,2017,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-1.00531881251249
-"Yemen, Rep.",YEM,2016,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-1.79131193116635
-"Yemen, Rep.",YEM,2015,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.0363882480868743
-"Yemen, Rep.",YEM,2014,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.539237328374498
-"Yemen, Rep.",YEM,2013,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.330496410064222
-"Yemen, Rep.",YEM,2012,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.0402221923159827
-"Yemen, Rep.",YEM,2011,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-1.58233916831705
-"Yemen, Rep.",YEM,2010,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.610357927076417
-"Yemen, Rep.",YEM,2009,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.514120933823452
-"Yemen, Rep.",YEM,2008,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.77696327441119
-"Yemen, Rep.",YEM,2007,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.2368473384621
-"Yemen, Rep.",YEM,2006,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.88065921349728
-"Yemen, Rep.",YEM,2005,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-1.80371741400597
-"Yemen, Rep.",YEM,2004,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.03496112054364
-"Yemen, Rep.",YEM,2003,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.756556733186567
-"Yemen, Rep.",YEM,2002,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.06877956877249
-"Yemen, Rep.",YEM,2001,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.57318921559631
-"Yemen, Rep.",YEM,2000,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.0662994282572368
-"Yemen, Rep.",YEM,1999,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-4.02559707932253
-"Yemen, Rep.",YEM,1998,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-3.46869700700935
-"Yemen, Rep.",YEM,1997,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-2.02528095056819
-"Yemen, Rep.",YEM,1996,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-1.03877063426039
-"Yemen, Rep.",YEM,1995,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-5.1117821036544
-"Yemen, Rep.",YEM,1994,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.379137272149153
-"Yemen, Rep.",YEM,1993,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,16.8210596072152
-"Yemen, Rep.",YEM,1992,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,11.1082747621609
-"Yemen, Rep.",YEM,1991,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.76361478890832
-"Yemen, Rep.",YEM,1990,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-2.31799603818535
+"Yemen, Rep.",YEM,2019,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2018,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2017,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2016,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2015,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2014,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2013,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2012,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2011,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2010,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2009,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2008,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2007,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2006,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2005,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2004,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2003,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2002,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2001,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,2000,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1999,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1998,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1997,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1996,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1995,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1994,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1993,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1992,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1991,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1990,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1989,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1988,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1987,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1986,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1985,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1984,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1983,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1982,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1981,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1980,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1979,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1978,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1977,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1976,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1975,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1974,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1973,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1972,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1971,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1970,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1969,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1968,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1967,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1966,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1965,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1964,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1963,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1962,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
+"Yemen, Rep.",YEM,1961,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,167.0
 "Yemen, Rep.",YEM,2020,Access to electricity (% of population),EG.ELC.ACCS.ZS,73.757926940918
 "Yemen, Rep.",YEM,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,72.7510757446289
-"Yemen, Rep.",YEM,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,62
+"Yemen, Rep.",YEM,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,62.0
 "Yemen, Rep.",YEM,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,79.1999969482422
 "Yemen, Rep.",YEM,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,68.859504699707
 "Yemen, Rep.",YEM,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,67.3109283447266
@@ -465,192 +299,6 @@ Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
 "Yemen, Rep.",YEM,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.58022595147563
 "Yemen, Rep.",YEM,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.70943405164686
 "Yemen, Rep.",YEM,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.1486377864538
-"Yemen, Rep.",YEM,2013,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.18791944278798
-"Yemen, Rep.",YEM,2012,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.28977721789157
-"Yemen, Rep.",YEM,2011,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.12795466234568
-"Yemen, Rep.",YEM,2010,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.06293221305854
-"Yemen, Rep.",YEM,2009,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.17633016100712
-"Yemen, Rep.",YEM,2008,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.02442930901478
-"Yemen, Rep.",YEM,2007,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.98932435908118
-"Yemen, Rep.",YEM,2006,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.75235719328765
-"Yemen, Rep.",YEM,2005,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.9419899693019
-"Yemen, Rep.",YEM,2004,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.97507068622431
-"Yemen, Rep.",YEM,2003,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,3.07073111460657
-"Yemen, Rep.",YEM,2002,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.96863967479082
-"Yemen, Rep.",YEM,2001,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.86429926381051
-"Yemen, Rep.",YEM,2000,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.92619232857285
-"Yemen, Rep.",YEM,1999,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.94553774515395
-"Yemen, Rep.",YEM,1998,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.96117976633187
-"Yemen, Rep.",YEM,1997,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.9264979691183
-"Yemen, Rep.",YEM,1996,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.88894499913016
-"Yemen, Rep.",YEM,1995,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.88823158291478
-"Yemen, Rep.",YEM,1994,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.80856267168499
-"Yemen, Rep.",YEM,1993,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.80786978123513
-"Yemen, Rep.",YEM,1992,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.73281127558531
-"Yemen, Rep.",YEM,1991,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.77882392325477
-"Yemen, Rep.",YEM,1990,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.64179349132107
-"Yemen, Rep.",YEM,1989,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.43497307926747
-"Yemen, Rep.",YEM,1988,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.43325172717149
-"Yemen, Rep.",YEM,1987,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.50392711166014
-"Yemen, Rep.",YEM,1986,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.67579947498751
-"Yemen, Rep.",YEM,1985,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.81736534184315
-"Yemen, Rep.",YEM,1984,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.79536851643453
-"Yemen, Rep.",YEM,1983,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.59101847449916
-"Yemen, Rep.",YEM,1982,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.32654494905325
-"Yemen, Rep.",YEM,1981,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.08486885072036
-"Yemen, Rep.",YEM,1980,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.939928906319412
-"Yemen, Rep.",YEM,1979,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.06835195367965
-"Yemen, Rep.",YEM,1978,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.987412929116503
-"Yemen, Rep.",YEM,1977,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.950117857334986
-"Yemen, Rep.",YEM,1976,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.867787592518599
-"Yemen, Rep.",YEM,1975,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.875656501773586
-"Yemen, Rep.",YEM,1974,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.463368251692433
-"Yemen, Rep.",YEM,1973,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.336233816140435
-"Yemen, Rep.",YEM,1972,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.438869173370521
-"Yemen, Rep.",YEM,1971,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.294237726098191
-"Yemen, Rep.",YEM,2016,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,986.423
-"Yemen, Rep.",YEM,2015,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,1895.839
-"Yemen, Rep.",YEM,2014,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,1855.502
-"Yemen, Rep.",YEM,2013,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,2013.183
-"Yemen, Rep.",YEM,2012,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,1518.138
-"Yemen, Rep.",YEM,2011,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,1301.785
-"Yemen, Rep.",YEM,2010,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,1947.177
-"Yemen, Rep.",YEM,2009,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,737.067
-"Yemen, Rep.",YEM,2008,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,2007,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,2006,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,2005,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,2004,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,2003,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,2002,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,2001,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,2000,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1999,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1998,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1997,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1996,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1995,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1994,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1993,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1992,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1991,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1990,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1989,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1988,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1987,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1986,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1985,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1984,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1983,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1982,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1981,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1980,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1979,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1978,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1977,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1976,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1975,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1974,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1973,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1972,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1971,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1970,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1969,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1968,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1967,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1966,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1965,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1964,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1963,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1962,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1961,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,1960,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
-"Yemen, Rep.",YEM,2016,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,9.06638786764706
-"Yemen, Rep.",YEM,2015,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,13.3415833919775
-"Yemen, Rep.",YEM,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,6.94684387869712
-"Yemen, Rep.",YEM,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,7.64016318785579
-"Yemen, Rep.",YEM,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,7.71411585365854
-"Yemen, Rep.",YEM,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,6.29185596906718
-"Yemen, Rep.",YEM,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,8.11661942476032
-"Yemen, Rep.",YEM,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.87355555555556
-"Yemen, Rep.",YEM,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1961,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,1960,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
-"Yemen, Rep.",YEM,2018,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.264208388773607
-"Yemen, Rep.",YEM,2017,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.274138491370371
-"Yemen, Rep.",YEM,2016,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.282072631682283
-"Yemen, Rep.",YEM,2015,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.319240457504528
-"Yemen, Rep.",YEM,2014,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.465339401676387
-"Yemen, Rep.",YEM,2013,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.471234387092412
-"Yemen, Rep.",YEM,2012,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.372913891693251
-"Yemen, Rep.",YEM,2011,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.417095433492199
-"Yemen, Rep.",YEM,2010,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.40340309453499
-"Yemen, Rep.",YEM,2009,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.453951458354219
-"Yemen, Rep.",YEM,2008,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.429799948528562
-"Yemen, Rep.",YEM,2007,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.428003920200192
-"Yemen, Rep.",YEM,2006,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.416633087286635
-"Yemen, Rep.",YEM,2005,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.413958309891811
-"Yemen, Rep.",YEM,2004,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.406460755454681
-"Yemen, Rep.",YEM,2003,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.4025865581268
-"Yemen, Rep.",YEM,2002,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.359377520785133
-"Yemen, Rep.",YEM,2001,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.373055566466497
-"Yemen, Rep.",YEM,2000,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.362183979164714
-"Yemen, Rep.",YEM,1999,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.359754414630072
-"Yemen, Rep.",YEM,1998,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.330852039205496
-"Yemen, Rep.",YEM,1997,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.327643869776222
-"Yemen, Rep.",YEM,1996,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.319902019513358
-"Yemen, Rep.",YEM,1995,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.326361139224151
-"Yemen, Rep.",YEM,1994,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.305890556154369
-"Yemen, Rep.",YEM,1993,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.298840225879259
-"Yemen, Rep.",YEM,1992,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.331883200437037
-"Yemen, Rep.",YEM,1991,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.334342183835482
-"Yemen, Rep.",YEM,1990,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.277617609960375
 "Yemen, Rep.",YEM,2019,CO2 emissions (kt),EN.ATM.CO2E.KT,11100.0003814697
 "Yemen, Rep.",YEM,2018,CO2 emissions (kt),EN.ATM.CO2E.KT,9720.00026702881
 "Yemen, Rep.",YEM,2017,CO2 emissions (kt),EN.ATM.CO2E.KT,10010.0002288818
@@ -669,132 +317,18 @@ Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
 "Yemen, Rep.",YEM,2004,CO2 emissions (kt),EN.ATM.CO2E.KT,19629.9991607666
 "Yemen, Rep.",YEM,2003,CO2 emissions (kt),EN.ATM.CO2E.KT,18700.0007629395
 "Yemen, Rep.",YEM,2002,CO2 emissions (kt),EN.ATM.CO2E.KT,16090.0001525879
-"Yemen, Rep.",YEM,2001,CO2 emissions (kt),EN.ATM.CO2E.KT,16070
-"Yemen, Rep.",YEM,2000,CO2 emissions (kt),EN.ATM.CO2E.KT,15030
-"Yemen, Rep.",YEM,1999,CO2 emissions (kt),EN.ATM.CO2E.KT,14060
-"Yemen, Rep.",YEM,1998,CO2 emissions (kt),EN.ATM.CO2E.KT,12460
-"Yemen, Rep.",YEM,1997,CO2 emissions (kt),EN.ATM.CO2E.KT,11640
-"Yemen, Rep.",YEM,1996,CO2 emissions (kt),EN.ATM.CO2E.KT,10800
-"Yemen, Rep.",YEM,1995,CO2 emissions (kt),EN.ATM.CO2E.KT,10530
-"Yemen, Rep.",YEM,1994,CO2 emissions (kt),EN.ATM.CO2E.KT,9340
-"Yemen, Rep.",YEM,1993,CO2 emissions (kt),EN.ATM.CO2E.KT,8550
-"Yemen, Rep.",YEM,1992,CO2 emissions (kt),EN.ATM.CO2E.KT,9130
-"Yemen, Rep.",YEM,1991,CO2 emissions (kt),EN.ATM.CO2E.KT,8500
-"Yemen, Rep.",YEM,1990,CO2 emissions (kt),EN.ATM.CO2E.KT,6640
-"Yemen, Rep.",YEM,2016,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,8104.07
-"Yemen, Rep.",YEM,2015,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9372.852
-"Yemen, Rep.",YEM,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,20769.888
-"Yemen, Rep.",YEM,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,21338.273
-"Yemen, Rep.",YEM,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,15328.06
-"Yemen, Rep.",YEM,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,17451.253
-"Yemen, Rep.",YEM,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,20102.494
-"Yemen, Rep.",YEM,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,22533.715
-"Yemen, Rep.",YEM,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,21158.59
-"Yemen, Rep.",YEM,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,20109.828
-"Yemen, Rep.",YEM,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,20582.871
-"Yemen, Rep.",YEM,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,19270.085
-"Yemen, Rep.",YEM,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,18111.313
-"Yemen, Rep.",YEM,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,16534.503
-"Yemen, Rep.",YEM,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,14987.029
-"Yemen, Rep.",YEM,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,15463.739
-"Yemen, Rep.",YEM,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,13945.601
-"Yemen, Rep.",YEM,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,13168.197
-"Yemen, Rep.",YEM,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11602.388
-"Yemen, Rep.",YEM,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,10835.985
-"Yemen, Rep.",YEM,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,10124.587
-"Yemen, Rep.",YEM,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9922.902
-"Yemen, Rep.",YEM,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,8665.121
-"Yemen, Rep.",YEM,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,8305.755
-"Yemen, Rep.",YEM,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9552.535
-"Yemen, Rep.",YEM,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,8782.465
-"Yemen, Rep.",YEM,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3351.638
-"Yemen, Rep.",YEM,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3149.953
-"Yemen, Rep.",YEM,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3083.947
-"Yemen, Rep.",YEM,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2977.604
-"Yemen, Rep.",YEM,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2574.234
-"Yemen, Rep.",YEM,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2460.557
-"Yemen, Rep.",YEM,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2255.205
-"Yemen, Rep.",YEM,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2064.521
-"Yemen, Rep.",YEM,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1840.834
-"Yemen, Rep.",YEM,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1320.12
-"Yemen, Rep.",YEM,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1155.105
-"Yemen, Rep.",YEM,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1001.091
-"Yemen, Rep.",YEM,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,916.75
-"Yemen, Rep.",YEM,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,836.076
-"Yemen, Rep.",YEM,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,700.397
-"Yemen, Rep.",YEM,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,575.719
-"Yemen, Rep.",YEM,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,341.031
-"Yemen, Rep.",YEM,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,319.029
-"Yemen, Rep.",YEM,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,253.023
-"Yemen, Rep.",YEM,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,216.353
-"Yemen, Rep.",YEM,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,168.682
-"Yemen, Rep.",YEM,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,135.679
-"Yemen, Rep.",YEM,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,128.345
-"Yemen, Rep.",YEM,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,102.676
-"Yemen, Rep.",YEM,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,99.009
-"Yemen, Rep.",YEM,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,102.676
-"Yemen, Rep.",YEM,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,99.009
-"Yemen, Rep.",YEM,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,80.674
-"Yemen, Rep.",YEM,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,69.673
-"Yemen, Rep.",YEM,1961,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,73.34
-"Yemen, Rep.",YEM,1960,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,58.672
-"Yemen, Rep.",YEM,2016,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,74.4859375
-"Yemen, Rep.",YEM,2015,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,65.9595496129486
-"Yemen, Rep.",YEM,2014,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,77.7607188318982
-"Yemen, Rep.",YEM,2013,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,80.9801631878558
-"Yemen, Rep.",YEM,2012,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,77.8864837398374
-"Yemen, Rep.",YEM,2011,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,84.3463170613823
-"Yemen, Rep.",YEM,2010,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,83.7953063776574
-"Yemen, Rep.",YEM,2009,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,87.8507407407407
-"Yemen, Rep.",YEM,2008,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,96.1317128577919
-"Yemen, Rep.",YEM,2007,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,97.478565196316
-"Yemen, Rep.",YEM,2006,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,106.042612055641
-"Yemen, Rep.",YEM,2005,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,99.4328431372549
-"Yemen, Rep.",YEM,2004,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,98.4310489130435
-"Yemen, Rep.",YEM,2003,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,95.0258793103448
-"Yemen, Rep.",YEM,2002,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,98.9896235138705
-"Yemen, Rep.",YEM,2001,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,102.544688328912
-"Yemen, Rep.",YEM,2000,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100.400295176386
-"Yemen, Rep.",YEM,1999,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,99.9863097949886
-"Yemen, Rep.",YEM,1998,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,98.9120886615516
-"Yemen, Rep.",YEM,1997,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,99.8708294930876
-"Yemen, Rep.",YEM,1996,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100.442331349206
-"Yemen, Rep.",YEM,1995,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100.535987841945
-"Yemen, Rep.",YEM,1994,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,102.183030660377
-"Yemen, Rep.",YEM,1993,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,102.287623152709
-"Yemen, Rep.",YEM,1992,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,104.627984665936
-"Yemen, Rep.",YEM,1991,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,103.323117647059
-"Yemen, Rep.",YEM,1990,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,50.4764759036145
-"Yemen, Rep.",YEM,1989,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,90.041928721174
-"Yemen, Rep.",YEM,1988,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,90.5274488697524
-"Yemen, Rep.",YEM,1987,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,88.7431693989071
-"Yemen, Rep.",YEM,1986,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,81.6279069767442
-"Yemen, Rep.",YEM,1985,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,77.9326364692218
-"Yemen, Rep.",YEM,1984,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,76.4925373134328
-"Yemen, Rep.",YEM,1983,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,82.9160530191458
-"Yemen, Rep.",YEM,1982,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,94.0074906367041
-"Yemen, Rep.",YEM,1981,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,97.0350404312668
-"Yemen, Rep.",YEM,1980,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,96.6257668711656
-"Yemen, Rep.",YEM,1979,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,95.7894736842105
-"Yemen, Rep.",YEM,1978,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,96.5250965250965
-"Yemen, Rep.",YEM,1977,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,96.6101694915254
-"Yemen, Rep.",YEM,1976,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,95.9798994974875
-"Yemen, Rep.",YEM,1975,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,95.1515151515152
-"Yemen, Rep.",YEM,1974,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,92.0792079207921
-"Yemen, Rep.",YEM,1973,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,97.752808988764
-"Yemen, Rep.",YEM,1972,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100
-"Yemen, Rep.",YEM,1971,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100
-"Yemen, Rep.",YEM,1970,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100
-"Yemen, Rep.",YEM,1969,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100
-"Yemen, Rep.",YEM,1968,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100
-"Yemen, Rep.",YEM,1967,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100
-"Yemen, Rep.",YEM,1966,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100
-"Yemen, Rep.",YEM,1965,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100
-"Yemen, Rep.",YEM,1964,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100
-"Yemen, Rep.",YEM,1963,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100
-"Yemen, Rep.",YEM,1962,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100
-"Yemen, Rep.",YEM,1961,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100
-"Yemen, Rep.",YEM,1960,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100
+"Yemen, Rep.",YEM,2001,CO2 emissions (kt),EN.ATM.CO2E.KT,16070.0
+"Yemen, Rep.",YEM,2000,CO2 emissions (kt),EN.ATM.CO2E.KT,15030.0
+"Yemen, Rep.",YEM,1999,CO2 emissions (kt),EN.ATM.CO2E.KT,14060.0
+"Yemen, Rep.",YEM,1998,CO2 emissions (kt),EN.ATM.CO2E.KT,12460.0
+"Yemen, Rep.",YEM,1997,CO2 emissions (kt),EN.ATM.CO2E.KT,11640.0
+"Yemen, Rep.",YEM,1996,CO2 emissions (kt),EN.ATM.CO2E.KT,10800.0
+"Yemen, Rep.",YEM,1995,CO2 emissions (kt),EN.ATM.CO2E.KT,10530.0
+"Yemen, Rep.",YEM,1994,CO2 emissions (kt),EN.ATM.CO2E.KT,9340.0
+"Yemen, Rep.",YEM,1993,CO2 emissions (kt),EN.ATM.CO2E.KT,8550.0
+"Yemen, Rep.",YEM,1992,CO2 emissions (kt),EN.ATM.CO2E.KT,9130.0
+"Yemen, Rep.",YEM,1991,CO2 emissions (kt),EN.ATM.CO2E.KT,8500.0
+"Yemen, Rep.",YEM,1990,CO2 emissions (kt),EN.ATM.CO2E.KT,6640.0
 "Yemen, Rep.",YEM,2019,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.351859419470324
 "Yemen, Rep.",YEM,2018,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.315681660355214
 "Yemen, Rep.",YEM,2017,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.333284630124548
@@ -825,213 +359,6 @@ Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
 "Yemen, Rep.",YEM,1992,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.632544329544926
 "Yemen, Rep.",YEM,1991,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.611693375238407
 "Yemen, Rep.",YEM,1990,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.496444106935556
-"Yemen, Rep.",YEM,2013,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.300035774438091
-"Yemen, Rep.",YEM,2012,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.245901084045543
-"Yemen, Rep.",YEM,2011,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.267245429829978
-"Yemen, Rep.",YEM,2010,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.263842657232637
-"Yemen, Rep.",YEM,2009,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.300471581994419
-"Yemen, Rep.",YEM,2008,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.286309062658399
-"Yemen, Rep.",YEM,2007,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.290580916957899
-"Yemen, Rep.",YEM,2006,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.290505412075458
-"Yemen, Rep.",YEM,2005,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.297546610287931
-"Yemen, Rep.",YEM,2004,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.301319032935775
-"Yemen, Rep.",YEM,2003,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.306458533460164
-"Yemen, Rep.",YEM,2002,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.278965891088931
-"Yemen, Rep.",YEM,2001,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.294096688237385
-"Yemen, Rep.",YEM,2000,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.291958888462502
-"Yemen, Rep.",YEM,1999,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.296570497824753
-"Yemen, Rep.",YEM,1998,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.276587868143868
-"Yemen, Rep.",YEM,1997,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.276988782892443
-"Yemen, Rep.",YEM,1996,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.275107472964782
-"Yemen, Rep.",YEM,1995,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.285800982831944
-"Yemen, Rep.",YEM,1994,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.273491545445343
-"Yemen, Rep.",YEM,1993,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.272893560173584
-"Yemen, Rep.",YEM,1992,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.310251324765778
-"Yemen, Rep.",YEM,1991,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.31967276861466
-"Yemen, Rep.",YEM,1990,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.27441345799445
-"Yemen, Rep.",YEM,2016,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,322.696
-"Yemen, Rep.",YEM,2015,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,355.699
-"Yemen, Rep.",YEM,2014,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,495.045
-"Yemen, Rep.",YEM,2013,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,495.045
-"Yemen, Rep.",YEM,2012,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,473.043
-"Yemen, Rep.",YEM,2011,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,462.042
-"Yemen, Rep.",YEM,2010,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,451.041
-"Yemen, Rep.",YEM,2009,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,238.355
-"Yemen, Rep.",YEM,2008,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,128.345
-"Yemen, Rep.",YEM,2007,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,2006,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,2005,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,2004,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,2003,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,2002,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,2001,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,2000,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1999,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1998,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1997,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1996,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1995,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1994,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1993,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1992,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1991,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1990,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1989,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1988,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1987,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1986,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1985,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1984,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1983,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1982,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1981,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1980,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1979,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1978,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1977,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1976,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1975,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1974,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1973,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1972,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1971,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1970,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1969,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1968,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1967,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1966,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1965,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1964,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1963,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1962,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1961,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,1960,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
-"Yemen, Rep.",YEM,2016,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,2.96595588235294
-"Yemen, Rep.",YEM,2015,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,2.50315974665728
-"Yemen, Rep.",YEM,2014,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.85340696368401
-"Yemen, Rep.",YEM,2013,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.87872865275142
-"Yemen, Rep.",YEM,2012,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,2.40367378048781
-"Yemen, Rep.",YEM,2011,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,2.23316578057032
-"Yemen, Rep.",YEM,2010,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.88012088370154
-"Yemen, Rep.",YEM,2009,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0.929259259259259
-"Yemen, Rep.",YEM,2008,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0.583121308496138
-"Yemen, Rep.",YEM,2007,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,2006,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,2005,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,2004,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,2003,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,2002,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,2001,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,2000,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1999,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1998,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1997,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1996,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1995,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1994,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1993,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1992,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1991,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1990,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1989,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1988,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1987,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1986,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1985,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1984,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1983,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1982,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1981,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1980,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1979,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1978,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1977,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1976,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1975,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1974,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1973,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1972,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1971,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1970,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1969,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1968,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1967,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1966,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1965,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1964,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1963,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1962,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1961,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,1960,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
-"Yemen, Rep.",YEM,2016,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-14417.9899902344
-"Yemen, Rep.",YEM,2015,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-10730.0827636719
-"Yemen, Rep.",YEM,2014,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,368.9013671875
-"Yemen, Rep.",YEM,2013,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-3008.5571289063
-"Yemen, Rep.",YEM,2012,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-2348.3120117188
-"Yemen, Rep.",YEM,2011,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1569.001953125
-"Yemen, Rep.",YEM,2010,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-2812.4248046875
-"Yemen, Rep.",YEM,2009,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1176.861328125
-"Yemen, Rep.",YEM,2008,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-2706.5102539063
-"Yemen, Rep.",YEM,2007,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-4002.375
-"Yemen, Rep.",YEM,2006,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-2731.7844238281
-"Yemen, Rep.",YEM,2005,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1985.48828125
-"Yemen, Rep.",YEM,2004,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1474.8940429688
-"Yemen, Rep.",YEM,2003,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1576.52734375
-"Yemen, Rep.",YEM,2002,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1181.3006591797
-"Yemen, Rep.",YEM,2001,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1204.08203125
-"Yemen, Rep.",YEM,2000,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1365.3797607422
-"Yemen, Rep.",YEM,1999,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1129.7641601563
-"Yemen, Rep.",YEM,1998,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-942.730102539101
-"Yemen, Rep.",YEM,1997,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1029.7319335938
-"Yemen, Rep.",YEM,1996,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-954.505065918
-"Yemen, Rep.",YEM,1995,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-917.599182128901
-"Yemen, Rep.",YEM,1994,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1149.81512451172
-"Yemen, Rep.",YEM,1993,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-298.65524291992
-"Yemen, Rep.",YEM,1992,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-221.423645019529
-"Yemen, Rep.",YEM,1991,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-147.837005615231
-"Yemen, Rep.",YEM,1990,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-216.56707763672
-"Yemen, Rep.",YEM,1989,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1.4509619140606
-"Yemen, Rep.",YEM,1988,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,0.787984619140389
-"Yemen, Rep.",YEM,1987,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-506.057575683591
-"Yemen, Rep.",YEM,1986,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,6.11672363281014
-"Yemen, Rep.",YEM,1985,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,7.09311523437009
-"Yemen, Rep.",YEM,1984,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,11.3211657714789
-"Yemen, Rep.",YEM,1983,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,16.2198547363294
-"Yemen, Rep.",YEM,1982,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,10.6805529785211
-"Yemen, Rep.",YEM,1981,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,12.4976550292999
-"Yemen, Rep.",YEM,1980,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,10.6948583984395
-"Yemen, Rep.",YEM,1979,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,15.01414672852
-"Yemen, Rep.",YEM,1978,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,8.48537109375025
-"Yemen, Rep.",YEM,1977,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,6.2505480957002
-"Yemen, Rep.",YEM,1976,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,5.7795520019497
-"Yemen, Rep.",YEM,1975,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,5.13731811522985
-"Yemen, Rep.",YEM,1974,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,3.38881042480011
-"Yemen, Rep.",YEM,1973,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,5.79846679687034
-"Yemen, Rep.",YEM,1972,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,3.22502746582018
-"Yemen, Rep.",YEM,1971,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,0.867789916989977
-"Yemen, Rep.",YEM,1970,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,0.585391235350016
-"Yemen, Rep.",YEM,2012,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,433.333333333147
-"Yemen, Rep.",YEM,2011,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,433.333333333117
-"Yemen, Rep.",YEM,2010,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,433.333333333343
-"Yemen, Rep.",YEM,2009,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,433.333333333163
-"Yemen, Rep.",YEM,2008,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,400.000000000032
-"Yemen, Rep.",YEM,2007,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,4.56745752330789e-11
-"Yemen, Rep.",YEM,2006,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,400.000000000045
-"Yemen, Rep.",YEM,2005,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,133.333333333207
-"Yemen, Rep.",YEM,2004,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,166.666666666612
-"Yemen, Rep.",YEM,2003,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,266.666666666642
-"Yemen, Rep.",YEM,2002,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-33.3333333333283
-"Yemen, Rep.",YEM,2001,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-7.56616991282044e-11
-"Yemen, Rep.",YEM,2000,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,1666.6666666664
-"Yemen, Rep.",YEM,1999,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,3999.99999999932
-"Yemen, Rep.",YEM,1998,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,3833.33333333268
-"Yemen, Rep.",YEM,1997,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-3.88900000004074
-"Yemen, Rep.",YEM,1996,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-3.33333333335982
-"Yemen, Rep.",YEM,1995,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-2.77766666673958
-"Yemen, Rep.",YEM,1994,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-2.22233333336833
-"Yemen, Rep.",YEM,1993,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-1.6666666666724
-"Yemen, Rep.",YEM,1992,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-1.11100000000649
-"Yemen, Rep.",YEM,1991,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-0.55566666668091
 "Yemen, Rep.",YEM,2019,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,25260.0002288818
 "Yemen, Rep.",YEM,2018,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,23860.0006103516
 "Yemen, Rep.",YEM,2017,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,23840.0001525879
@@ -1039,7 +366,7 @@ Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
 "Yemen, Rep.",YEM,2015,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,29459.9990844727
 "Yemen, Rep.",YEM,2014,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,52319.9996948242
 "Yemen, Rep.",YEM,2013,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,54090.0001525879
-"Yemen, Rep.",YEM,2012,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,44500
+"Yemen, Rep.",YEM,2012,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,44500.0
 "Yemen, Rep.",YEM,2011,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,48939.998626709
 "Yemen, Rep.",YEM,2010,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,52169.9981689453
 "Yemen, Rep.",YEM,2009,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,49560.001373291
@@ -1061,160 +388,7 @@ Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
 "Yemen, Rep.",YEM,1993,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,21450.0007629395
 "Yemen, Rep.",YEM,1992,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,20110.0006103516
 "Yemen, Rep.",YEM,1991,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,19549.9992370605
-"Yemen, Rep.",YEM,1990,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,17800
-"Yemen, Rep.",YEM,2012,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,218.47926081746
-"Yemen, Rep.",YEM,2011,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,210.887474726356
-"Yemen, Rep.",YEM,2010,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,202.453322196469
-"Yemen, Rep.",YEM,2009,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,188.149146582112
-"Yemen, Rep.",YEM,2008,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,186.38278307165
-"Yemen, Rep.",YEM,2007,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,181.9111846218
-"Yemen, Rep.",YEM,2006,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,172.057661823139
-"Yemen, Rep.",YEM,2005,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,154.211322456675
-"Yemen, Rep.",YEM,2004,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,129.682857762623
-"Yemen, Rep.",YEM,2003,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,125.550135223984
-"Yemen, Rep.",YEM,2002,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,106.848837215999
-"Yemen, Rep.",YEM,2001,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,96.1898063079063
-"Yemen, Rep.",YEM,2000,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,88.522606521173
-"Yemen, Rep.",YEM,1999,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,78.1764562206604
-"Yemen, Rep.",YEM,1998,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,62.4106563188487
-"Yemen, Rep.",YEM,1997,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,53.120595422881
-"Yemen, Rep.",YEM,1996,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,43.0839309474961
-"Yemen, Rep.",YEM,1995,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,39.1786351755867
-"Yemen, Rep.",YEM,1994,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,29.3466785801173
-"Yemen, Rep.",YEM,1993,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,13.6420106768138
-"Yemen, Rep.",YEM,1992,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,19.3591896954753
-"Yemen, Rep.",YEM,1991,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,13.1239888823774
-"Yemen, Rep.",YEM,2010,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,0
-"Yemen, Rep.",YEM,2008,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,0
-"Yemen, Rep.",YEM,2005,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,0
-"Yemen, Rep.",YEM,2000,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,0
-"Yemen, Rep.",YEM,1990,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,0
-"Yemen, Rep.",YEM,2019,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,10609.9996566772
-"Yemen, Rep.",YEM,2018,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,10619.9998855591
-"Yemen, Rep.",YEM,2017,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,10140.0003433228
-"Yemen, Rep.",YEM,2016,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,9350.00038146973
-"Yemen, Rep.",YEM,2015,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,12260.0002288818
-"Yemen, Rep.",YEM,2014,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,20950.0007629395
-"Yemen, Rep.",YEM,2013,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,22360.0006103516
-"Yemen, Rep.",YEM,2012,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,19799.9992370605
-"Yemen, Rep.",YEM,2011,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,22329.9999237061
-"Yemen, Rep.",YEM,2010,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,23049.9992370605
-"Yemen, Rep.",YEM,2009,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,19440.0005340576
-"Yemen, Rep.",YEM,2008,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,18709.9990844727
-"Yemen, Rep.",YEM,2007,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,19940.0005340576
-"Yemen, Rep.",YEM,2006,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,20809.9994659424
-"Yemen, Rep.",YEM,2005,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,20469.9993133545
-"Yemen, Rep.",YEM,2004,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,19590.0001525879
-"Yemen, Rep.",YEM,2003,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,20219.9993133545
-"Yemen, Rep.",YEM,2002,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,19469.9993133545
-"Yemen, Rep.",YEM,2001,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,19420.0000762939
-"Yemen, Rep.",YEM,2000,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,19319.9996948242
-"Yemen, Rep.",YEM,1999,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,17340.0001525879
-"Yemen, Rep.",YEM,1998,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,16209.9990844727
-"Yemen, Rep.",YEM,1997,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,15829.9999237061
-"Yemen, Rep.",YEM,1996,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,15029.9997329712
-"Yemen, Rep.",YEM,1995,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,14659.9998474121
-"Yemen, Rep.",YEM,1994,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,14729.9995422363
-"Yemen, Rep.",YEM,1993,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,10659.9998474121
-"Yemen, Rep.",YEM,1992,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,8750
-"Yemen, Rep.",YEM,1991,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,8899.99961853027
-"Yemen, Rep.",YEM,1990,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,8890.00034332275
-"Yemen, Rep.",YEM,2012,Methane emissions (% change from 1990),EN.ATM.METH.ZG,128.51511433523
-"Yemen, Rep.",YEM,2011,Methane emissions (% change from 1990),EN.ATM.METH.ZG,126.274770077041
-"Yemen, Rep.",YEM,2010,Methane emissions (% change from 1990),EN.ATM.METH.ZG,124.034425818853
-"Yemen, Rep.",YEM,2009,Methane emissions (% change from 1990),EN.ATM.METH.ZG,118.173243562413
-"Yemen, Rep.",YEM,2008,Methane emissions (% change from 1990),EN.ATM.METH.ZG,112.65918234846
-"Yemen, Rep.",YEM,2007,Methane emissions (% change from 1990),EN.ATM.METH.ZG,116.660531979612
-"Yemen, Rep.",YEM,2006,Methane emissions (% change from 1990),EN.ATM.METH.ZG,113.138454774576
-"Yemen, Rep.",YEM,2005,Methane emissions (% change from 1990),EN.ATM.METH.ZG,99.0647158361834
-"Yemen, Rep.",YEM,2004,Methane emissions (% change from 1990),EN.ATM.METH.ZG,75.7091953846705
-"Yemen, Rep.",YEM,2003,Methane emissions (% change from 1990),EN.ATM.METH.ZG,74.6670654213252
-"Yemen, Rep.",YEM,2002,Methane emissions (% change from 1990),EN.ATM.METH.ZG,61.429177594078
-"Yemen, Rep.",YEM,2001,Methane emissions (% change from 1990),EN.ATM.METH.ZG,59.3321370693577
-"Yemen, Rep.",YEM,2000,Methane emissions (% change from 1990),EN.ATM.METH.ZG,56.8920652935192
-"Yemen, Rep.",YEM,1999,Methane emissions (% change from 1990),EN.ATM.METH.ZG,47.167819476609
-"Yemen, Rep.",YEM,1998,Methane emissions (% change from 1990),EN.ATM.METH.ZG,40.5446579656355
-"Yemen, Rep.",YEM,1997,Methane emissions (% change from 1990),EN.ATM.METH.ZG,36.8053105940933
-"Yemen, Rep.",YEM,1996,Methane emissions (% change from 1990),EN.ATM.METH.ZG,30.5484410226523
-"Yemen, Rep.",YEM,1995,Methane emissions (% change from 1990),EN.ATM.METH.ZG,26.1140847302527
-"Yemen, Rep.",YEM,1994,Methane emissions (% change from 1990),EN.ATM.METH.ZG,26.2252759331115
-"Yemen, Rep.",YEM,1993,Methane emissions (% change from 1990),EN.ATM.METH.ZG,5.15952742460726
-"Yemen, Rep.",YEM,1992,Methane emissions (% change from 1990),EN.ATM.METH.ZG,0.586373837604603
-"Yemen, Rep.",YEM,1991,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-0.645675812462609
-"Yemen, Rep.",YEM,2019,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3080
-"Yemen, Rep.",YEM,2018,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3080
-"Yemen, Rep.",YEM,2017,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3300
-"Yemen, Rep.",YEM,2016,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3350
-"Yemen, Rep.",YEM,2015,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3340
-"Yemen, Rep.",YEM,2014,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3650
-"Yemen, Rep.",YEM,2013,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3620
-"Yemen, Rep.",YEM,2012,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3430
-"Yemen, Rep.",YEM,2011,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3420
-"Yemen, Rep.",YEM,2010,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3450
-"Yemen, Rep.",YEM,2009,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3340
-"Yemen, Rep.",YEM,2008,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3250
-"Yemen, Rep.",YEM,2007,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3230
-"Yemen, Rep.",YEM,2006,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2990
-"Yemen, Rep.",YEM,2005,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2890
-"Yemen, Rep.",YEM,2004,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2920
-"Yemen, Rep.",YEM,2003,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2800
-"Yemen, Rep.",YEM,2002,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2580
-"Yemen, Rep.",YEM,2001,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2610
-"Yemen, Rep.",YEM,2000,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2470
-"Yemen, Rep.",YEM,1999,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2450
-"Yemen, Rep.",YEM,1998,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2450
-"Yemen, Rep.",YEM,1997,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2400
-"Yemen, Rep.",YEM,1996,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2280
-"Yemen, Rep.",YEM,1995,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2270
-"Yemen, Rep.",YEM,1994,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2230
-"Yemen, Rep.",YEM,1993,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2230
-"Yemen, Rep.",YEM,1992,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2220
-"Yemen, Rep.",YEM,1991,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2150
-"Yemen, Rep.",YEM,1990,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2250
-"Yemen, Rep.",YEM,2012,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,77.4237208926116
-"Yemen, Rep.",YEM,2011,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,75.6842726485664
-"Yemen, Rep.",YEM,2010,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,73.9448244045212
-"Yemen, Rep.",YEM,2009,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,70.8607069354448
-"Yemen, Rep.",YEM,2008,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,69.912554260396
-"Yemen, Rep.",YEM,2007,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,66.4509731671295
-"Yemen, Rep.",YEM,2006,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,61.928899034472
-"Yemen, Rep.",YEM,2005,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,57.6494800887938
-"Yemen, Rep.",YEM,2004,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,53.1993037893154
-"Yemen, Rep.",YEM,2003,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,48.4309795780197
-"Yemen, Rep.",YEM,2002,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,41.3605766206221
-"Yemen, Rep.",YEM,2001,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,38.8892383922446
-"Yemen, Rep.",YEM,2000,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,31.594304493315
-"Yemen, Rep.",YEM,1999,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,27.0547052638201
-"Yemen, Rep.",YEM,1998,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,22.2084917332471
-"Yemen, Rep.",YEM,1997,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,16.20891712876
-"Yemen, Rep.",YEM,1996,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,7.63000775897449
-"Yemen, Rep.",YEM,1995,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,4.23478237424619
-"Yemen, Rep.",YEM,1994,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-0.382256813068627
-"Yemen, Rep.",YEM,1993,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-0.772602132369893
-"Yemen, Rep.",YEM,1992,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-0.946954377829101
-"Yemen, Rep.",YEM,1991,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-4.01279781430587
-"Yemen, Rep.",YEM,2010,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,0
-"Yemen, Rep.",YEM,2008,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,0
-"Yemen, Rep.",YEM,2005,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,0
-"Yemen, Rep.",YEM,2000,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,0
-"Yemen, Rep.",YEM,1990,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,0
-"Yemen, Rep.",YEM,2010,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
-"Yemen, Rep.",YEM,2008,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
-"Yemen, Rep.",YEM,2005,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
-"Yemen, Rep.",YEM,2000,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
-"Yemen, Rep.",YEM,1990,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
-"Yemen, Rep.",YEM,2011,Disaster risk reduction progress score (1-5 scale; 5=best),EN.CLC.DRSK.XQ,2.25
-"Yemen, Rep.",YEM,1995,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-9.6702
-"Yemen, Rep.",YEM,2009,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",EN.CLC.MDAT.ZS,0.0994106985454189
-"Yemen, Rep.",YEM,2015,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.570903487695558
-"Yemen, Rep.",YEM,2000,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.627504511318491
-"Yemen, Rep.",YEM,1990,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.586181487474969
-"Yemen, Rep.",YEM,2015,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,1.00996020680856
-"Yemen, Rep.",YEM,2000,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0.844342790781017
-"Yemen, Rep.",YEM,1990,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,1.13871995416507
-"Yemen, Rep.",YEM,2015,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,1.58086369450412
-"Yemen, Rep.",YEM,2000,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,1.47184730209951
-"Yemen, Rep.",YEM,1990,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,1.72490144164004
+"Yemen, Rep.",YEM,1990,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,17800.0
 "Yemen, Rep.",YEM,2021,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,9.32414794036476
 "Yemen, Rep.",YEM,2020,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,9.20884575619797
 "Yemen, Rep.",YEM,2019,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,9.11148811138385
@@ -1277,36 +451,6 @@ Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
 "Yemen, Rep.",YEM,1962,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,1.36344058959368
 "Yemen, Rep.",YEM,1961,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,1.33089106708593
 "Yemen, Rep.",YEM,1960,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,1.29906238368204
-"Yemen, Rep.",YEM,2019,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.565
-"Yemen, Rep.",YEM,2018,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.565
-"Yemen, Rep.",YEM,2017,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.565
-"Yemen, Rep.",YEM,2016,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.565
-"Yemen, Rep.",YEM,2015,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.565
-"Yemen, Rep.",YEM,2014,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.565
-"Yemen, Rep.",YEM,2013,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.565
-"Yemen, Rep.",YEM,2012,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.565
-"Yemen, Rep.",YEM,2011,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.565
-"Yemen, Rep.",YEM,2010,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.565
-"Yemen, Rep.",YEM,2009,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.565
-"Yemen, Rep.",YEM,2008,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.565
-"Yemen, Rep.",YEM,2007,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.565
-"Yemen, Rep.",YEM,2006,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.565
-"Yemen, Rep.",YEM,2005,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.565
-"Yemen, Rep.",YEM,2004,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.5288
-"Yemen, Rep.",YEM,2003,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.4926
-"Yemen, Rep.",YEM,2002,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.4564
-"Yemen, Rep.",YEM,2001,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.4202
-"Yemen, Rep.",YEM,2000,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.384
-"Yemen, Rep.",YEM,1999,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.3432
-"Yemen, Rep.",YEM,1998,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.2964
-"Yemen, Rep.",YEM,1997,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.2496
-"Yemen, Rep.",YEM,1996,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.2028
-"Yemen, Rep.",YEM,1995,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.156
-"Yemen, Rep.",YEM,1994,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.1092
-"Yemen, Rep.",YEM,1993,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.0624
-"Yemen, Rep.",YEM,1992,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.0156
-"Yemen, Rep.",YEM,1991,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.9688
-"Yemen, Rep.",YEM,1990,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.922
 "Yemen, Rep.",YEM,2019,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,169.761904761905
 "Yemen, Rep.",YEM,2018,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,169.761904761905
 "Yemen, Rep.",YEM,2017,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,169.761904761905
@@ -1337,93 +481,6 @@ Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
 "Yemen, Rep.",YEM,1992,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,143.6
 "Yemen, Rep.",YEM,1991,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,141.371428571429
 "Yemen, Rep.",YEM,1990,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,139.142857142857
-"Yemen, Rep.",YEM,2021,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,0.771943986
-"Yemen, Rep.",YEM,2020,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,0.771944
-"Yemen, Rep.",YEM,2019,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,0.771944
-"Yemen, Rep.",YEM,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,0.771943980228183
-"Yemen, Rep.",YEM,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,0.771943980228183
-"Yemen, Rep.",YEM,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,0.77
-"Yemen, Rep.",YEM,2021,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.467573524
-"Yemen, Rep.",YEM,2020,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.467573
-"Yemen, Rep.",YEM,2019,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.467573
-"Yemen, Rep.",YEM,2018,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.46757350017511
-"Yemen, Rep.",YEM,2017,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.46757350017511
-"Yemen, Rep.",YEM,2016,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.467506305
-"Yemen, Rep.",YEM,2021,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,0.605801455707474
-"Yemen, Rep.",YEM,2020,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,0.605801455707474
-"Yemen, Rep.",YEM,2019,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,0.605801455707474
-"Yemen, Rep.",YEM,2018,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,0.605801443960698
-"Yemen, Rep.",YEM,2017,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,0.605801443960698
-"Yemen, Rep.",YEM,2016,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,0.605805312181478
-"Yemen, Rep.",YEM,2019,Ease of doing business rank (1=most business-friendly regulations),IC.BUS.EASE.XQ,187
-"Yemen, Rep.",YEM,2021,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,1.7
-"Yemen, Rep.",YEM,2020,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,1.7
-"Yemen, Rep.",YEM,2019,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,1.7
-"Yemen, Rep.",YEM,2018,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,1.7
-"Yemen, Rep.",YEM,2017,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,1.8
-"Yemen, Rep.",YEM,2016,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.2
-"Yemen, Rep.",YEM,2015,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.4
-"Yemen, Rep.",YEM,2014,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.7
-"Yemen, Rep.",YEM,2013,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.8
-"Yemen, Rep.",YEM,2012,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.8
-"Yemen, Rep.",YEM,2011,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.9
-"Yemen, Rep.",YEM,2010,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.9
-"Yemen, Rep.",YEM,2009,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,3
-"Yemen, Rep.",YEM,2008,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,3
-"Yemen, Rep.",YEM,2007,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.9
-"Yemen, Rep.",YEM,2006,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.9
-"Yemen, Rep.",YEM,2005,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.9
-"Yemen, Rep.",YEM,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.1831266748455
-"Yemen, Rep.",YEM,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,18.9329402358585
-"Yemen, Rep.",YEM,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,20.0528849398268
-"Yemen, Rep.",YEM,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,14.0667365504067
-"Yemen, Rep.",YEM,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,14.5701913478966
-"Yemen, Rep.",YEM,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,14.5500035215884
-"Yemen, Rep.",YEM,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,14.8562792983311
-"Yemen, Rep.",YEM,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.53316904908236
-"Yemen, Rep.",YEM,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.16218141547681
-"Yemen, Rep.",YEM,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,10.0213175579619
-"Yemen, Rep.",YEM,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.70080455854246
-"Yemen, Rep.",YEM,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.85541682914463
-"Yemen, Rep.",YEM,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,10.147535570701
-"Yemen, Rep.",YEM,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,10.5523434439208
-"Yemen, Rep.",YEM,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.7309360760433
-"Yemen, Rep.",YEM,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,12.8768063869431
-"Yemen, Rep.",YEM,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,13.3403856039223
-"Yemen, Rep.",YEM,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,14.1046869895186
-"Yemen, Rep.",YEM,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,13.7448914743946
-"Yemen, Rep.",YEM,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,16.4348292850822
-"Yemen, Rep.",YEM,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,19.5634143421576
-"Yemen, Rep.",YEM,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,16.1914021373311
-"Yemen, Rep.",YEM,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,16.7281273132012
-"Yemen, Rep.",YEM,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,20.5338329615708
-"Yemen, Rep.",YEM,1994,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,24.9618143673072
-"Yemen, Rep.",YEM,1993,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,22.5531393286575
-"Yemen, Rep.",YEM,1992,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,24.1775309237246
-"Yemen, Rep.",YEM,1991,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,23.1241341720982
-"Yemen, Rep.",YEM,1990,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,24.3811402811598
-"Yemen, Rep.",YEM,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.820739984512329
-"Yemen, Rep.",YEM,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.787890017032623
-"Yemen, Rep.",YEM,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.767949998378754
-"Yemen, Rep.",YEM,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.753470003604889
-"Yemen, Rep.",YEM,2010,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.749210000038147
-"Yemen, Rep.",YEM,2008,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.722209990024567
-"Yemen, Rep.",YEM,2005,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.651859998703003
-"Yemen, Rep.",YEM,2004,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.621370017528534
-"Yemen, Rep.",YEM,2003,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.600329995155334
-"Yemen, Rep.",YEM,2001,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.546750009059906
-"Yemen, Rep.",YEM,1999,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.491369992494583
-"Yemen, Rep.",YEM,2016,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,72.3003921508789
-"Yemen, Rep.",YEM,2013,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,69.6953582763672
-"Yemen, Rep.",YEM,2012,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,69.8492126464844
-"Yemen, Rep.",YEM,2010,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,65.4463272094727
-"Yemen, Rep.",YEM,2008,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,63.3587417602539
-"Yemen, Rep.",YEM,2005,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,59.8057403564453
-"Yemen, Rep.",YEM,2004,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,60.0483818054199
-"Yemen, Rep.",YEM,2003,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,61.0132713317871
-"Yemen, Rep.",YEM,2002,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,57.9328994750977
-"Yemen, Rep.",YEM,2001,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,58.8540382385254
-"Yemen, Rep.",YEM,1999,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,55.9723205566406
 "Yemen, Rep.",YEM,2021,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,61.9
 "Yemen, Rep.",YEM,2020,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,59.7
 "Yemen, Rep.",YEM,2019,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,61.6
@@ -1448,7 +505,7 @@ Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
 "Yemen, Rep.",YEM,2000,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,95.1
 "Yemen, Rep.",YEM,1999,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,99.5
 "Yemen, Rep.",YEM,1998,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,103.6
-"Yemen, Rep.",YEM,1997,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,107
+"Yemen, Rep.",YEM,1997,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,107.0
 "Yemen, Rep.",YEM,1996,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,109.8
 "Yemen, Rep.",YEM,1995,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,112.1
 "Yemen, Rep.",YEM,1994,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,114.4
@@ -1470,7 +527,7 @@ Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
 "Yemen, Rep.",YEM,1978,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,235.2
 "Yemen, Rep.",YEM,1977,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,248.2
 "Yemen, Rep.",YEM,1976,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,260.8
-"Yemen, Rep.",YEM,1975,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,273
+"Yemen, Rep.",YEM,1975,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,273.0
 "Yemen, Rep.",YEM,1974,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,284.6
 "Yemen, Rep.",YEM,1973,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,295.7
 "Yemen, Rep.",YEM,1972,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,306.8
@@ -1486,141 +543,68 @@ Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
 "Yemen, Rep.",YEM,1962,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,414.9
 "Yemen, Rep.",YEM,1961,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,421.9
 "Yemen, Rep.",YEM,1960,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,429.1
-"Yemen, Rep.",YEM,2010,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.001
-"Yemen, Rep.",YEM,2004,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.128
-"Yemen, Rep.",YEM,2013,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,39.9
-"Yemen, Rep.",YEM,2011,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,35.5
-"Yemen, Rep.",YEM,2005,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,36.7
-"Yemen, Rep.",YEM,2003,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,45.3
-"Yemen, Rep.",YEM,1997,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,43
-"Yemen, Rep.",YEM,1996,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,34.2
-"Yemen, Rep.",YEM,1991,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,29.9
-"Yemen, Rep.",YEM,2014,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,19.8
-"Yemen, Rep.",YEM,2005,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,10.5
-"Yemen, Rep.",YEM,1998,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,8.1
-"Yemen, Rep.",YEM,2021,Population growth (annual %),SP.POP.GROW,2.137789700681
-"Yemen, Rep.",YEM,2020,Population growth (annual %),SP.POP.GROW,2.31044739697631
-"Yemen, Rep.",YEM,2019,Population growth (annual %),SP.POP.GROW,2.42620792944992
-"Yemen, Rep.",YEM,2018,Population growth (annual %),SP.POP.GROW,2.48635978893057
-"Yemen, Rep.",YEM,2017,Population growth (annual %),SP.POP.GROW,2.56432067801961
-"Yemen, Rep.",YEM,2016,Population growth (annual %),SP.POP.GROW,2.6215373231585
-"Yemen, Rep.",YEM,2015,Population growth (annual %),SP.POP.GROW,2.71295489821162
-"Yemen, Rep.",YEM,2014,Population growth (annual %),SP.POP.GROW,2.81107242907205
-"Yemen, Rep.",YEM,2013,Population growth (annual %),SP.POP.GROW,2.85923731473568
-"Yemen, Rep.",YEM,2012,Population growth (annual %),SP.POP.GROW,2.8930274863714
-"Yemen, Rep.",YEM,2011,Population growth (annual %),SP.POP.GROW,2.914067083312
-"Yemen, Rep.",YEM,2010,Population growth (annual %),SP.POP.GROW,2.92949070515169
-"Yemen, Rep.",YEM,2009,Population growth (annual %),SP.POP.GROW,2.95885526727336
-"Yemen, Rep.",YEM,2008,Population growth (annual %),SP.POP.GROW,2.99112094190605
-"Yemen, Rep.",YEM,2007,Population growth (annual %),SP.POP.GROW,3.02768141948774
-"Yemen, Rep.",YEM,2006,Population growth (annual %),SP.POP.GROW,2.98322980970804
-"Yemen, Rep.",YEM,2005,Population growth (annual %),SP.POP.GROW,2.79308557038497
-"Yemen, Rep.",YEM,2004,Population growth (annual %),SP.POP.GROW,2.66182702320952
-"Yemen, Rep.",YEM,2003,Population growth (annual %),SP.POP.GROW,2.65086168454782
-"Yemen, Rep.",YEM,2002,Population growth (annual %),SP.POP.GROW,2.66583425909229
-"Yemen, Rep.",YEM,2001,Population growth (annual %),SP.POP.GROW,2.72575839716245
-"Yemen, Rep.",YEM,2000,Population growth (annual %),SP.POP.GROW,2.79878090986914
-"Yemen, Rep.",YEM,1999,Population growth (annual %),SP.POP.GROW,2.83546955747621
-"Yemen, Rep.",YEM,1998,Population growth (annual %),SP.POP.GROW,2.877490206929
-"Yemen, Rep.",YEM,1997,Population growth (annual %),SP.POP.GROW,2.93206602812607
-"Yemen, Rep.",YEM,1996,Population growth (annual %),SP.POP.GROW,3.12386934377468
-"Yemen, Rep.",YEM,1995,Population growth (annual %),SP.POP.GROW,3.47621011267703
-"Yemen, Rep.",YEM,1994,Population growth (annual %),SP.POP.GROW,3.70115238968601
-"Yemen, Rep.",YEM,1993,Population growth (annual %),SP.POP.GROW,3.76823475623043
-"Yemen, Rep.",YEM,1992,Population growth (annual %),SP.POP.GROW,3.79803628349844
-"Yemen, Rep.",YEM,1991,Population growth (annual %),SP.POP.GROW,3.81939669011217
-"Yemen, Rep.",YEM,1990,Population growth (annual %),SP.POP.GROW,3.83138071176847
-"Yemen, Rep.",YEM,1989,Population growth (annual %),SP.POP.GROW,3.84157832731803
-"Yemen, Rep.",YEM,1988,Population growth (annual %),SP.POP.GROW,3.88213882810338
-"Yemen, Rep.",YEM,1987,Population growth (annual %),SP.POP.GROW,3.85077186791153
-"Yemen, Rep.",YEM,1986,Population growth (annual %),SP.POP.GROW,3.80918069110919
-"Yemen, Rep.",YEM,1985,Population growth (annual %),SP.POP.GROW,3.79714636642967
-"Yemen, Rep.",YEM,1984,Population growth (annual %),SP.POP.GROW,3.72275695518587
-"Yemen, Rep.",YEM,1983,Population growth (annual %),SP.POP.GROW,3.63147566601071
-"Yemen, Rep.",YEM,1982,Population growth (annual %),SP.POP.GROW,3.5381246031762
-"Yemen, Rep.",YEM,1981,Population growth (annual %),SP.POP.GROW,3.4610720107486
-"Yemen, Rep.",YEM,1980,Population growth (annual %),SP.POP.GROW,3.36975665377586
-"Yemen, Rep.",YEM,1979,Population growth (annual %),SP.POP.GROW,3.25027042254283
-"Yemen, Rep.",YEM,1978,Population growth (annual %),SP.POP.GROW,3.14960178228826
-"Yemen, Rep.",YEM,1977,Population growth (annual %),SP.POP.GROW,3.07990564742298
-"Yemen, Rep.",YEM,1976,Population growth (annual %),SP.POP.GROW,3.00108249293356
-"Yemen, Rep.",YEM,1975,Population growth (annual %),SP.POP.GROW,2.91211625127455
-"Yemen, Rep.",YEM,1974,Population growth (annual %),SP.POP.GROW,2.82388573636085
-"Yemen, Rep.",YEM,1973,Population growth (annual %),SP.POP.GROW,2.75959726812791
-"Yemen, Rep.",YEM,1972,Population growth (annual %),SP.POP.GROW,2.69171563737212
-"Yemen, Rep.",YEM,1971,Population growth (annual %),SP.POP.GROW,2.60458284502131
-"Yemen, Rep.",YEM,1970,Population growth (annual %),SP.POP.GROW,2.5098398364617
-"Yemen, Rep.",YEM,1969,Population growth (annual %),SP.POP.GROW,2.3970575790427
-"Yemen, Rep.",YEM,1968,Population growth (annual %),SP.POP.GROW,2.29583106341309
-"Yemen, Rep.",YEM,1967,Population growth (annual %),SP.POP.GROW,2.21633524122653
-"Yemen, Rep.",YEM,1966,Population growth (annual %),SP.POP.GROW,2.12785723919625
-"Yemen, Rep.",YEM,1965,Population growth (annual %),SP.POP.GROW,2.04619792080409
-"Yemen, Rep.",YEM,1964,Population growth (annual %),SP.POP.GROW,1.92005222485611
-"Yemen, Rep.",YEM,1963,Population growth (annual %),SP.POP.GROW,1.83946697124667
-"Yemen, Rep.",YEM,1962,Population growth (annual %),SP.POP.GROW,1.87229143755514
-"Yemen, Rep.",YEM,1961,Population growth (annual %),SP.POP.GROW,1.8627371586163
-"Yemen, Rep.",YEM,2021,"Population, total",SP.POP.TOTL,32981641
-"Yemen, Rep.",YEM,2020,"Population, total",SP.POP.TOTL,32284046
-"Yemen, Rep.",YEM,2019,"Population, total",SP.POP.TOTL,31546691
-"Yemen, Rep.",YEM,2018,"Population, total",SP.POP.TOTL,30790513
-"Yemen, Rep.",YEM,2017,"Population, total",SP.POP.TOTL,30034389
-"Yemen, Rep.",YEM,2016,"Population, total",SP.POP.TOTL,29274002
-"Yemen, Rep.",YEM,2015,"Population, total",SP.POP.TOTL,28516545
-"Yemen, Rep.",YEM,2014,"Population, total",SP.POP.TOTL,27753304
-"Yemen, Rep.",YEM,2013,"Population, total",SP.POP.TOTL,26984002
-"Yemen, Rep.",YEM,2012,"Population, total",SP.POP.TOTL,26223391
-"Yemen, Rep.",YEM,2011,"Population, total",SP.POP.TOTL,25475610
-"Yemen, Rep.",YEM,2010,"Population, total",SP.POP.TOTL,24743946
-"Yemen, Rep.",YEM,2009,"Population, total",SP.POP.TOTL,24029589
-"Yemen, Rep.",YEM,2008,"Population, total",SP.POP.TOTL,23329004
-"Yemen, Rep.",YEM,2007,"Population, total",SP.POP.TOTL,22641538
-"Yemen, Rep.",YEM,2006,"Population, total",SP.POP.TOTL,21966298
-"Yemen, Rep.",YEM,2005,"Population, total",SP.POP.TOTL,21320671
-"Yemen, Rep.",YEM,2004,"Population, total",SP.POP.TOTL,20733406
-"Yemen, Rep.",YEM,2003,"Population, total",SP.POP.TOTL,20188799
-"Yemen, Rep.",YEM,2002,"Population, total",SP.POP.TOTL,19660653
-"Yemen, Rep.",YEM,2001,"Population, total",SP.POP.TOTL,19143457
-"Yemen, Rep.",YEM,2000,"Population, total",SP.POP.TOTL,18628700
-"Yemen, Rep.",YEM,1999,"Population, total",SP.POP.TOTL,18114552
-"Yemen, Rep.",YEM,1998,"Population, total",SP.POP.TOTL,17608133
-"Yemen, Rep.",YEM,1997,"Population, total",SP.POP.TOTL,17108681
-"Yemen, Rep.",YEM,1996,"Population, total",SP.POP.TOTL,16614326
-"Yemen, Rep.",YEM,1995,"Population, total",SP.POP.TOTL,16103339
-"Yemen, Rep.",YEM,1994,"Population, total",SP.POP.TOTL,15553171
-"Yemen, Rep.",YEM,1993,"Population, total",SP.POP.TOTL,14988047
-"Yemen, Rep.",YEM,1992,"Population, total",SP.POP.TOTL,14433771
-"Yemen, Rep.",YEM,1991,"Population, total",SP.POP.TOTL,13895851
-"Yemen, Rep.",YEM,1990,"Population, total",SP.POP.TOTL,13375121
-"Yemen, Rep.",YEM,1989,"Population, total",SP.POP.TOTL,12872362
-"Yemen, Rep.",YEM,1988,"Population, total",SP.POP.TOTL,12387238
-"Yemen, Rep.",YEM,1987,"Population, total",SP.POP.TOTL,11915563
-"Yemen, Rep.",YEM,1986,"Population, total",SP.POP.TOTL,11465444
-"Yemen, Rep.",YEM,1985,"Population, total",SP.POP.TOTL,11036918
-"Yemen, Rep.",YEM,1984,"Population, total",SP.POP.TOTL,10625687
-"Yemen, Rep.",YEM,1983,"Population, total",SP.POP.TOTL,10237391
-"Yemen, Rep.",YEM,1982,"Population, total",SP.POP.TOTL,9872292
-"Yemen, Rep.",YEM,1981,"Population, total",SP.POP.TOTL,9529105
-"Yemen, Rep.",YEM,1980,"Population, total",SP.POP.TOTL,9204938
-"Yemen, Rep.",YEM,1979,"Population, total",SP.POP.TOTL,8899922
-"Yemen, Rep.",YEM,1978,"Population, total",SP.POP.TOTL,8615301
-"Yemen, Rep.",YEM,1977,"Population, total",SP.POP.TOTL,8348182
-"Yemen, Rep.",YEM,1976,"Population, total",SP.POP.TOTL,8094985
-"Yemen, Rep.",YEM,1975,"Population, total",SP.POP.TOTL,7855657
-"Yemen, Rep.",YEM,1974,"Population, total",SP.POP.TOTL,7630190
-"Yemen, Rep.",YEM,1973,"Population, total",SP.POP.TOTL,7417736
-"Yemen, Rep.",YEM,1972,"Population, total",SP.POP.TOTL,7215835
-"Yemen, Rep.",YEM,1971,"Population, total",SP.POP.TOTL,7024196
-"Yemen, Rep.",YEM,1970,"Population, total",SP.POP.TOTL,6843607
-"Yemen, Rep.",YEM,1969,"Population, total",SP.POP.TOTL,6673981
-"Yemen, Rep.",YEM,1968,"Population, total",SP.POP.TOTL,6515904
-"Yemen, Rep.",YEM,1967,"Population, total",SP.POP.TOTL,6368014
-"Yemen, Rep.",YEM,1966,"Population, total",SP.POP.TOTL,6228430
-"Yemen, Rep.",YEM,1965,"Population, total",SP.POP.TOTL,6097298
-"Yemen, Rep.",YEM,1964,"Population, total",SP.POP.TOTL,5973803
-"Yemen, Rep.",YEM,1963,"Population, total",SP.POP.TOTL,5860197
-"Yemen, Rep.",YEM,1962,"Population, total",SP.POP.TOTL,5753386
-"Yemen, Rep.",YEM,1961,"Population, total",SP.POP.TOTL,5646668
-"Yemen, Rep.",YEM,1960,"Population, total",SP.POP.TOTL,5542459
+"Yemen, Rep.",YEM,2021,Population (total),SP.POP.TOTL,32981641.0
+"Yemen, Rep.",YEM,2020,Population (total),SP.POP.TOTL,32284046.0
+"Yemen, Rep.",YEM,2019,Population (total),SP.POP.TOTL,31546691.0
+"Yemen, Rep.",YEM,2018,Population (total),SP.POP.TOTL,30790513.0
+"Yemen, Rep.",YEM,2017,Population (total),SP.POP.TOTL,30034389.0
+"Yemen, Rep.",YEM,2016,Population (total),SP.POP.TOTL,29274002.0
+"Yemen, Rep.",YEM,2015,Population (total),SP.POP.TOTL,28516545.0
+"Yemen, Rep.",YEM,2014,Population (total),SP.POP.TOTL,27753304.0
+"Yemen, Rep.",YEM,2013,Population (total),SP.POP.TOTL,26984002.0
+"Yemen, Rep.",YEM,2012,Population (total),SP.POP.TOTL,26223391.0
+"Yemen, Rep.",YEM,2011,Population (total),SP.POP.TOTL,25475610.0
+"Yemen, Rep.",YEM,2010,Population (total),SP.POP.TOTL,24743946.0
+"Yemen, Rep.",YEM,2009,Population (total),SP.POP.TOTL,24029589.0
+"Yemen, Rep.",YEM,2008,Population (total),SP.POP.TOTL,23329004.0
+"Yemen, Rep.",YEM,2007,Population (total),SP.POP.TOTL,22641538.0
+"Yemen, Rep.",YEM,2006,Population (total),SP.POP.TOTL,21966298.0
+"Yemen, Rep.",YEM,2005,Population (total),SP.POP.TOTL,21320671.0
+"Yemen, Rep.",YEM,2004,Population (total),SP.POP.TOTL,20733406.0
+"Yemen, Rep.",YEM,2003,Population (total),SP.POP.TOTL,20188799.0
+"Yemen, Rep.",YEM,2002,Population (total),SP.POP.TOTL,19660653.0
+"Yemen, Rep.",YEM,2001,Population (total),SP.POP.TOTL,19143457.0
+"Yemen, Rep.",YEM,2000,Population (total),SP.POP.TOTL,18628700.0
+"Yemen, Rep.",YEM,1999,Population (total),SP.POP.TOTL,18114552.0
+"Yemen, Rep.",YEM,1998,Population (total),SP.POP.TOTL,17608133.0
+"Yemen, Rep.",YEM,1997,Population (total),SP.POP.TOTL,17108681.0
+"Yemen, Rep.",YEM,1996,Population (total),SP.POP.TOTL,16614326.0
+"Yemen, Rep.",YEM,1995,Population (total),SP.POP.TOTL,16103339.0
+"Yemen, Rep.",YEM,1994,Population (total),SP.POP.TOTL,15553171.0
+"Yemen, Rep.",YEM,1993,Population (total),SP.POP.TOTL,14988047.0
+"Yemen, Rep.",YEM,1992,Population (total),SP.POP.TOTL,14433771.0
+"Yemen, Rep.",YEM,1991,Population (total),SP.POP.TOTL,13895851.0
+"Yemen, Rep.",YEM,1990,Population (total),SP.POP.TOTL,13375121.0
+"Yemen, Rep.",YEM,1989,Population (total),SP.POP.TOTL,12872362.0
+"Yemen, Rep.",YEM,1988,Population (total),SP.POP.TOTL,12387238.0
+"Yemen, Rep.",YEM,1987,Population (total),SP.POP.TOTL,11915563.0
+"Yemen, Rep.",YEM,1986,Population (total),SP.POP.TOTL,11465444.0
+"Yemen, Rep.",YEM,1985,Population (total),SP.POP.TOTL,11036918.0
+"Yemen, Rep.",YEM,1984,Population (total),SP.POP.TOTL,10625687.0
+"Yemen, Rep.",YEM,1983,Population (total),SP.POP.TOTL,10237391.0
+"Yemen, Rep.",YEM,1982,Population (total),SP.POP.TOTL,9872292.0
+"Yemen, Rep.",YEM,1981,Population (total),SP.POP.TOTL,9529105.0
+"Yemen, Rep.",YEM,1980,Population (total),SP.POP.TOTL,9204938.0
+"Yemen, Rep.",YEM,1979,Population (total),SP.POP.TOTL,8899922.0
+"Yemen, Rep.",YEM,1978,Population (total),SP.POP.TOTL,8615301.0
+"Yemen, Rep.",YEM,1977,Population (total),SP.POP.TOTL,8348182.0
+"Yemen, Rep.",YEM,1976,Population (total),SP.POP.TOTL,8094985.0
+"Yemen, Rep.",YEM,1975,Population (total),SP.POP.TOTL,7855657.0
+"Yemen, Rep.",YEM,1974,Population (total),SP.POP.TOTL,7630190.0
+"Yemen, Rep.",YEM,1973,Population (total),SP.POP.TOTL,7417736.0
+"Yemen, Rep.",YEM,1972,Population (total),SP.POP.TOTL,7215835.0
+"Yemen, Rep.",YEM,1971,Population (total),SP.POP.TOTL,7024196.0
+"Yemen, Rep.",YEM,1970,Population (total),SP.POP.TOTL,6843607.0
+"Yemen, Rep.",YEM,1969,Population (total),SP.POP.TOTL,6673981.0
+"Yemen, Rep.",YEM,1968,Population (total),SP.POP.TOTL,6515904.0
+"Yemen, Rep.",YEM,1967,Population (total),SP.POP.TOTL,6368014.0
+"Yemen, Rep.",YEM,1966,Population (total),SP.POP.TOTL,6228430.0
+"Yemen, Rep.",YEM,1965,Population (total),SP.POP.TOTL,6097298.0
+"Yemen, Rep.",YEM,1964,Population (total),SP.POP.TOTL,5973803.0
+"Yemen, Rep.",YEM,1963,Population (total),SP.POP.TOTL,5860197.0
+"Yemen, Rep.",YEM,1962,Population (total),SP.POP.TOTL,5753386.0
+"Yemen, Rep.",YEM,1961,Population (total),SP.POP.TOTL,5646668.0
+"Yemen, Rep.",YEM,1960,Population (total),SP.POP.TOTL,5542459.0
 "Yemen, Rep.",YEM,2021,Urban population growth (annual %),SP.URB.GROW,3.80680448268827
 "Yemen, Rep.",YEM,2020,Urban population growth (annual %),SP.URB.GROW,3.99974403498889
 "Yemen, Rep.",YEM,2019,Urban population growth (annual %),SP.URB.GROW,4.13361280897488
@@ -1682,68 +666,6 @@ Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
 "Yemen, Rep.",YEM,1963,Urban population growth (annual %),SP.URB.GROW,5.68102562326363
 "Yemen, Rep.",YEM,1962,Urban population growth (annual %),SP.URB.GROW,5.72968464080382
 "Yemen, Rep.",YEM,1961,Urban population growth (annual %),SP.URB.GROW,5.73185587152309
-"Yemen, Rep.",YEM,2021,Urban population,SP.URB.TOTL,12713103
-"Yemen, Rep.",YEM,2020,Urban population,SP.URB.TOTL,12238236
-"Yemen, Rep.",YEM,2019,Urban population,SP.URB.TOTL,11758398
-"Yemen, Rep.",YEM,2018,Urban population,SP.URB.TOTL,11282260
-"Yemen, Rep.",YEM,2017,Urban population,SP.URB.TOTL,10817186
-"Yemen, Rep.",YEM,2016,Urban population,SP.URB.TOTL,10361240
-"Yemen, Rep.",YEM,2015,Urban population,SP.URB.TOTL,9917199
-"Yemen, Rep.",YEM,2014,Urban population,SP.URB.TOTL,9481916
-"Yemen, Rep.",YEM,2013,Urban population,SP.URB.TOTL,9055561
-"Yemen, Rep.",YEM,2012,Urban population,SP.URB.TOTL,8642705
-"Yemen, Rep.",YEM,2011,Urban population,SP.URB.TOTL,8244926
-"Yemen, Rep.",YEM,2010,Urban population,SP.URB.TOTL,7862636
-"Yemen, Rep.",YEM,2009,Urban population,SP.URB.TOTL,7495790
-"Yemen, Rep.",YEM,2008,Urban population,SP.URB.TOTL,7143108
-"Yemen, Rep.",YEM,2007,Urban population,SP.URB.TOTL,6804009
-"Yemen, Rep.",YEM,2006,Urban population,SP.URB.TOTL,6477861
-"Yemen, Rep.",YEM,2005,Urban population,SP.URB.TOTL,6169349
-"Yemen, Rep.",YEM,2004,Urban population,SP.URB.TOTL,5886214
-"Yemen, Rep.",YEM,2003,Urban population,SP.URB.TOTL,5622379
-"Yemen, Rep.",YEM,2002,Urban population,SP.URB.TOTL,5370307
-"Yemen, Rep.",YEM,2001,Urban population,SP.URB.TOTL,5127958
-"Yemen, Rep.",YEM,2000,Urban population,SP.URB.TOTL,4893201
-"Yemen, Rep.",YEM,1999,Urban population,SP.URB.TOTL,4664859
-"Yemen, Rep.",YEM,1998,Urban population,SP.URB.TOTL,4444997
-"Yemen, Rep.",YEM,1997,Urban population,SP.URB.TOTL,4233201
-"Yemen, Rep.",YEM,1996,Urban population,SP.URB.TOTL,4028808
-"Yemen, Rep.",YEM,1995,Urban population,SP.URB.TOTL,3826153
-"Yemen, Rep.",YEM,1994,Urban population,SP.URB.TOTL,3612224
-"Yemen, Rep.",YEM,1993,Urban population,SP.URB.TOTL,3392694
-"Yemen, Rep.",YEM,1992,Urban population,SP.URB.TOTL,3183801
-"Yemen, Rep.",YEM,1991,Urban population,SP.URB.TOTL,2986079
-"Yemen, Rep.",YEM,1990,Urban population,SP.URB.TOTL,2799547
-"Yemen, Rep.",YEM,1989,Urban population,SP.URB.TOTL,2624031
-"Yemen, Rep.",YEM,1988,Urban population,SP.URB.TOTL,2458743
-"Yemen, Rep.",YEM,1987,Urban population,SP.URB.TOTL,2302444
-"Yemen, Rep.",YEM,1986,Urban population,SP.URB.TOTL,2156421
-"Yemen, Rep.",YEM,1985,Urban population,SP.URB.TOTL,2027813
-"Yemen, Rep.",YEM,1984,Urban population,SP.URB.TOTL,1911880
-"Yemen, Rep.",YEM,1983,Urban population,SP.URB.TOTL,1803726
-"Yemen, Rep.",YEM,1982,Urban population,SP.URB.TOTL,1703069
-"Yemen, Rep.",YEM,1981,Urban population,SP.URB.TOTL,1609371
-"Yemen, Rep.",YEM,1980,Urban population,SP.URB.TOTL,1521944
-"Yemen, Rep.",YEM,1979,Urban population,SP.URB.TOTL,1440274
-"Yemen, Rep.",YEM,1978,Urban population,SP.URB.TOTL,1364664
-"Yemen, Rep.",YEM,1977,Urban population,SP.URB.TOTL,1294135
-"Yemen, Rep.",YEM,1976,Urban population,SP.URB.TOTL,1228090
-"Yemen, Rep.",YEM,1975,Urban population,SP.URB.TOTL,1166094
-"Yemen, Rep.",YEM,1974,Urban population,SP.URB.TOTL,1108209
-"Yemen, Rep.",YEM,1973,Urban population,SP.URB.TOTL,1053986
-"Yemen, Rep.",YEM,1972,Urban population,SP.URB.TOTL,1003073
-"Yemen, Rep.",YEM,1971,Urban population,SP.URB.TOTL,955150
-"Yemen, Rep.",YEM,1970,Urban population,SP.URB.TOTL,910200
-"Yemen, Rep.",YEM,1969,Urban population,SP.URB.TOTL,855271
-"Yemen, Rep.",YEM,1968,Urban population,SP.URB.TOTL,804519
-"Yemen, Rep.",YEM,1967,Urban population,SP.URB.TOTL,757221
-"Yemen, Rep.",YEM,1966,Urban population,SP.URB.TOTL,713218
-"Yemen, Rep.",YEM,1965,Urban population,SP.URB.TOTL,672288
-"Yemen, Rep.",YEM,1964,Urban population,SP.URB.TOTL,634059
-"Yemen, Rep.",YEM,1963,Urban population,SP.URB.TOTL,598678
-"Yemen, Rep.",YEM,1962,Urban population,SP.URB.TOTL,565615
-"Yemen, Rep.",YEM,1961,Urban population,SP.URB.TOTL,534118
-"Yemen, Rep.",YEM,1960,Urban population,SP.URB.TOTL,504364
 "Yemen, Rep.",YEM,2021,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.546
 "Yemen, Rep.",YEM,2020,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.908
 "Yemen, Rep.",YEM,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.273
