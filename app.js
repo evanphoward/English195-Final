@@ -226,6 +226,71 @@ function updateVisualization(element) {
             .attr("src", "images/past-pictures/" + selectedCountry + ".png")
             .style("width", "704px")
             .style("height", "400px");
+    } else if(element.id == "maps") {
+        currentVisualization.text("");
+
+        // Define the width and height of the visualization
+        const width = 500;
+        const height = 500;
+
+        const centers = {"som": [46.44, 6.32], "yem": [47.58, 15.58], "bgd": [90.22, 23.27]};
+        const scales = {"som": 2000, "yem": 2500, "bgd": 3500};
+
+        const projection = d3.geoMercator()
+            .center(centers[selectedCountry])
+            .scale(scales[selectedCountry])
+            .translate([width / 2, height / 2]);
+
+        // Create a path generator based on the projection
+        const path = d3.geoPath()
+            .projection(projection);
+
+        // Create a color scale for the map
+        const color = d3.scaleOrdinal(d3.schemeCategory10);
+
+        // Create a new SVG element for the visualization
+        const svg = currentVisualization.append("svg")
+            .attr("width", width)
+            .attr("height", height);
+
+        // Add slider for selecting years
+        const yearSlider = currentVisualization.append("input")
+            .attr("type", "range")
+            .attr("min", 1900)
+            .attr("max", 2013)
+            .attr("value", 1900)
+            .attr("id", "yearSlider")
+            .style("display", "block");
+
+        // Add a label to display the selected year
+        const yearLabel = currentVisualization.append("label")
+            .attr("for", "yearSlider")
+            .text("Selected Year: 1900");
+        
+        function createMap(year) {
+            // Load the GeoJSON data for the map
+            d3.json("datasets/regions_" + selectedCountry + ".geojson").then(data => {
+                svg.selectAll("g").remove();
+                const mapGroup = svg.append("g");
+
+                // Bind the GeoJSON data to SVG elements and draw the map
+                mapGroup.selectAll("path")
+                    .data(data.features)
+                    .enter().append("path")
+                        .attr("d", path)
+                        .attr("stroke", "gray")
+                        .attr("fill", d => d.properties["temperature_" + year.toString()]);
+            });
+        }
+
+        // Event listener for updating the visualization based on the selected year
+        yearSlider.on("input", function() {
+            yearLabel.text(`Selected Year: ${this.value}`);
+            // Update the visualization based on the selected year
+            createMap(this.value);
+        });
+
+        createMap(1900);
     }
 }
 
